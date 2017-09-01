@@ -10,6 +10,7 @@
 *.out
 *.pyc
 *.pyo
+.ipynb_checkpoints
 *~
 
 # Packages #
